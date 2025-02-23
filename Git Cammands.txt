@@ -23,3 +23,9 @@ git diff --staged :it shows the difference b/w staged file and commited files
 git rm --cached waste.html : it not remove file from folder physically, it remove from staging area.
 
 git status -s: used for short status
+
+gitignore file : used to ignore file form git so it not get captured form git.
+
+git branch feature1: it create new branch with name feature1
+git branch: it shows all the branches
+git checkout feature1: to change the branch
