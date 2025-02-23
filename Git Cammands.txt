@@ -9,3 +9,7 @@ ssh-add c:/Users/Anuj/.ssh/id_ed25519
 
  clip < ~/.ssh/id_ed25519.pub   -- it will copy the ssh Key to clipboard
  now we can add key to GitHub
+
+
+git checkout about.html : to restore file to older version
+
