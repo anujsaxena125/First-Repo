@@ -12,7 +12,7 @@ ssh-add c:/Users/Anuj/.ssh/id_ed25519
 
 
 git checkout about.html : to restore file to older version unless you not have used git add . and commit
-
+git checkout <filename> -f : to restore files from commited git
 git log: to check logs
 git log -p 2 : to check last limited log
 
