@@ -19,3 +19,5 @@ git log -p 2 : to check last limited log
 git diff: it compare your modified files with staging area files and show the difference
 
 git diff --staged :it shows the difference b/w staged file and commited files
+
+git rm --cached waste.html : it not remove file from folder physically, it remove from staging area.
