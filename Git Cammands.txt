@@ -29,3 +29,6 @@ gitignore file : used to ignore file form git so it not get captured form git.
 git branch feature1: it create new branch with name feature1
 git branch: it shows all the branches
 git checkout feature1: to change the branch
+
+ git push --set-upstream origin feature1 : to auto setup branch on github without creating manually on GUI
+
