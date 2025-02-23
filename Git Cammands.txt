@@ -11,5 +11,11 @@ ssh-add c:/Users/Anuj/.ssh/id_ed25519
  now we can add key to GitHub
 
 
-git checkout about.html : to restore file to older version
+git checkout about.html : to restore file to older version unless you not have used git add . and commit
 
+git log: to check logs
+git log -p 2 : to check last limited log
+
+git diff: it compare your modified files with staging area files and show the difference
+
+git diff --staged :it shows the difference b/w staged file and commited files
