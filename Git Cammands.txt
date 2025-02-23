@@ -10,6 +10,7 @@ ssh-add c:/Users/Anuj/.ssh/id_ed25519
  clip < ~/.ssh/id_ed25519.pub   -- it will copy the ssh Key to clipboard
  now we can add key to GitHub
 
+git remote add origin <URL of the Repository> and it will known by name of origin
 
 git checkout about.html : to restore file to older version unless you not have used git add . and commit
 git checkout <filename> -f : to restore files from commited git
